@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Clientes>  
+  <Cliente>  
+    <Nombres>Pablo</Nombres>  
+    <Apellidos>Arevalo</Apellidos>  
+    <TipoID>C.C</TipoID>  
+    <NoIdentificacion>4084967223</NoIdentificacion>  
+    <FechaNacimiento>Monday, June 5, 1997</FechaNacimiento>      
+  </Cliente>  
+  <Cliente>  
+    <Nombres>Juan</Nombres>  
+    <Apellidos>Jimenez</Apellidos>  
+    <TipoID>C.C</TipoID>  
+    <NoIdentificacion>9831247204</NoIdentificacion>  
+    <FechaNacimiento>Tuesday, May 25, 2004</FechaNacimiento>      
+  </Cliente>  
+</Clientes>  

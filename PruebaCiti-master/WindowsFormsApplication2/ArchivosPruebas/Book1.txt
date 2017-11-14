@@ -1,0 +1,6 @@
+Nombres|Apellidos|TipoID|NoIdentificacion|FechaNacimiento
+Jo|Sandoval|C.C|537985644|Thursday, October 13, 1994
+Jose|Sa|T.I|787985644|Thursday, October 13, 1994
+Jose|Sandoval|C.A|CE79856TE|Thursday, October 13, 1994
+Jose|Sandoval|C.C|CE79856TE|Thursday, October 13, 1994
+Jose|Sandoval|C.C|537985644|Thursday, June 5, 1994

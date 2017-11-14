@@ -1,0 +1,17 @@
+    [
+      {
+        "Nombres": "Pablo",
+        "Apellidos": "Arevalo",
+        "TipoID": "C.C",
+        "NoIdentificacion": "4084967223",
+        "FechaNacimiento": "Monday, June 5, 1997"
+      },
+      {
+        "Nombres": "Juan",
+        "Apellidos": "Jimenez",
+        "TipoID": "C.C",
+        "NoIdentificacion": "9831247204",
+        "FechaNacimiento": "Tuesday, May 25, 2004"
+      }
+    ]
+  
